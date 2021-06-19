@@ -37,7 +37,6 @@
 
 <!-- ABOUT THE Color GUI -->
 ## About The Color GUI
-1. Basic-Color-GUI-Application-using-Tkinter
 
 
 ### Built With
